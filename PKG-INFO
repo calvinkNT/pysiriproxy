@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pysiriproxy
+Version: 0.0.7
+Summary: Python implementation of SiriProxy.
+Home-page: https://code.google.com/p/pysiriproxy/
+Author: Brett Ponsler
+Author-email: ponsler@gmail.com
+License: GNU GPL v3
+Description: UNKNOWN
+Platform: UNKNOWN
